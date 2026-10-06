@@ -23,3 +23,5 @@ Aura requires a device-bound activation code. After installing, go to Settings �
 - 国际用户 / International：$2 / activation code
 
 微信 / WeChat：`Put_Story`（添加时请说明来意 / Please state your purpose when adding）
+
+- **收费仅为收取时间成本**
